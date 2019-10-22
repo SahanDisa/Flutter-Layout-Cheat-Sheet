@@ -1,0 +1,21 @@
+-------Visible Widgets----
+
+1.Text Widgets
+
+Text('Hello World'),
+
+2.Image Widgets
+
+Image.asset(
+  'images/lake.jpg',
+  fit: BoxFit.cover,
+),
+
+3.Icon Widget
+
+Icon(
+  Icons.star,
+  color: Colors.red[500],
+),
+
+
